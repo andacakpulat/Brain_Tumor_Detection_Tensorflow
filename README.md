@@ -1,1 +1,1 @@
-# Brain_Tumer_Detection_Tensorflow
+# Brain_Tumor_Detection_Tensorflow
